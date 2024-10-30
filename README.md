@@ -15,7 +15,7 @@
 │   ├── xgb_no_tuned_141.pkl
 │   └── xgb_tuned_116.pkl
 ├── notebooks/
-│   ├── EDA.ipynb                       # анализ данных и визуализация
+│   ├── eda.ipynb                       # анализ данных и визуализация
 │   ├── feature_engineering.ipynb       # отбор признаков
 │   ├── validation_and_learning.ipynb   # валидация и обучение моделей          
 │   └── prediction.ipynb                # получение предсказания
